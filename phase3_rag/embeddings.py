@@ -14,8 +14,11 @@ from typing import Dict, List, Optional
 
 import numpy as np
 
-# Suppress position_ids warning from transformers
+# Suppress various warnings
 warnings.filterwarnings("ignore", message=".*embeddings.position_ids.*")
+warnings.filterwarnings("ignore", message=".*You are sending unauthenticated requests to the HF Hub.*")
+warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
+warnings.filterwarnings("ignore", category=UserWarning, module="huggingface_hub")
 
 
 class EmbeddingManager:
