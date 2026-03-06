@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+# Vercel/other deployers look for a script named "app".  The
+# `[project.scripts]` table is the PEP 621 standard and is what the
+# FastAPI docs examples use.
+[project.scripts]
+# point at the wrapper entrypoint which now creates a FastAPI instance
+# directly; this matches our `vercel.json` configuration as well.
+app = "api.app:app"

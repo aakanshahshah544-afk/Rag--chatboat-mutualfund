@@ -1,12 +1,6 @@
-# Groww RAG Chatbot Backend - Vercel Optimized Dependencies
-# Removed: selenium, playwright, webdriver-manager, beautifulsoup4, pandas, 
-# schedule, apscheduler, pytest, chromadb (not needed for backend runtime)
-
-# Core Web Framework
-fastapi==0.110.0
-uvicorn==0.28.0
-pydantic==2.6.3
-python-dotenv==1.0.1
+# Groww RAG Chatbot - Streamlit Deployment Dependencies
+# Core Web Framework (for Streamlit)
+streamlit==1.28.1
 
 # Data Processing (for embeddings & retrieval)
 numpy==1.26.4
@@ -23,3 +17,4 @@ langchain-community==0.0.29
 requests==2.31.0
 tqdm==4.66.2
 python-dateutil==2.9.0
+python-dotenv==1.0.1
