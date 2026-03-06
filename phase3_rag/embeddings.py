@@ -8,10 +8,14 @@ Phase 3: Embedding Generation and Management
 
 import json
 import os
+import warnings
 from pathlib import Path
 from typing import Dict, List, Optional
 
 import numpy as np
+
+# Suppress position_ids warning from transformers
+warnings.filterwarnings("ignore", message=".*embeddings.position_ids.*")
 
 
 class EmbeddingManager:
