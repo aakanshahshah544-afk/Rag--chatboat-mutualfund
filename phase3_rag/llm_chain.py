@@ -1,7 +1,7 @@
 """
 Phase 3: LLM Chain for RAG
 
-Uses Groq API for answer generation.
+Uses Gemini API for answer generation.
 - LLM must NOT answer from its own knowledge
 - Must only answer from retrieved embeddings
 - Single LLM call per query
@@ -22,7 +22,7 @@ load_dotenv()
 
 
 class RAGChain:
-    """RAG chain using Groq LLM"""
+    """RAG chain using Gemini LLM"""
     
     SYSTEM_PROMPT = """You are a helpful assistant that answers questions about mutual funds ONLY using the provided context from Groww website.
 
@@ -44,23 +44,27 @@ RESPONSE FORMAT:
 
     def __init__(self, retriever: Optional[Retriever] = None):
         self.retriever = retriever or Retriever()
-        self.groq_client = None
-        self.model = os.getenv("GROQ_MODEL", "llama-3.1-70b-versatile")
-        self._init_groq()
+        self.gemini_model = None
+        self.model_name = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+        self._init_gemini()
     
-    def _init_groq(self):
-        """Initialize Groq client"""
-        api_key = os.getenv("GROQ_API_KEY")
+    def _init_gemini(self):
+        """Initialize Gemini client"""
+        api_key = os.getenv("GEMINI_API_KEY")
         
         if not api_key:
-            print("Warning: GROQ_API_KEY not set in environment")
+            print("Warning: GEMINI_API_KEY not set in environment")
             return
         
         try:
-            from groq import Groq
-            self.groq_client = Groq(api_key=api_key)
+            import google.generativeai as genai
+            genai.configure(api_key=api_key)
+            self.gemini_model = genai.GenerativeModel(
+                model_name=self.model_name,
+                system_instruction=self.SYSTEM_PROMPT
+            )
         except ImportError:
-            print("Warning: groq package not installed. Run: pip install groq")
+            print("Warning: google-generativeai package not installed. Run: pip install google-generativeai")
     
     def _is_advice_query(self, query: str) -> bool:
         """Check if query is asking for investment advice"""
@@ -128,7 +132,7 @@ RESPONSE FORMAT:
         
         primary_citation = sources[0]["url"] if sources else "https://groww.in"
         
-        if not self.groq_client:
+        if not self.gemini_model:
             return self._fallback_response(user_query, context, sources)
         
         answer = self._call_llm(user_query, context)
@@ -147,9 +151,9 @@ RESPONSE FORMAT:
         }
     
     def _call_llm(self, query: str, context: str) -> str:
-        """Make a single LLM call to Groq"""
+        """Make a single LLM call to Gemini"""
         
-        user_message = f"""Context from Groww:
+        prompt = f"""Context from Groww:
 {context}
 
 Question: {query}
@@ -157,24 +161,23 @@ Question: {query}
 Answer based ONLY on the context above. If the information is not in the context, say so."""
 
         try:
-            response = self.groq_client.chat.completions.create(
-                model=self.model,
-                messages=[
-                    {"role": "system", "content": self.SYSTEM_PROMPT},
-                    {"role": "user", "content": user_message}
-                ],
-                temperature=0.1,
-                max_tokens=300,
+            import google.generativeai as genai
+            response = self.gemini_model.generate_content(
+                prompt,
+                generation_config=genai.types.GenerationConfig(
+                    temperature=0.1,
+                    max_output_tokens=300,
+                )
             )
             
-            return response.choices[0].message.content.strip()
+            return response.text.strip()
         
         except Exception as e:
             print(f"LLM call failed: {e}")
             return f"Error generating response: {str(e)}"
     
     def _fallback_response(self, query: str, context: str, sources: List[Dict]) -> Dict:
-        """Generate response without LLM (for when Groq is unavailable)"""
+        """Generate response without LLM (for when Gemini is unavailable)"""
         query_lower = query.lower()
         
         primary_citation = sources[0]["url"] if sources else "https://groww.in"

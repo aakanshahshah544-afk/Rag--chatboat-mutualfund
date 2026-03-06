@@ -52,7 +52,7 @@ M1/
 │   ├── __init__.py
 │   ├── embeddings.py        # Embedding generation
 │   ├── retriever.py         # Vector similarity search
-│   └── llm_chain.py         # Groq LLM integration
+│   └── llm_chain.py         # Gemini LLM integration
 │
 ├── phase4_backend/          # Backend & Frontend
 │   ├── __init__.py
@@ -98,7 +98,7 @@ M1/
 - Generates embeddings using sentence-transformers
 - Stores in FAISS vector database
 - Retrieves relevant chunks for queries
-- Uses Groq LLM for answer generation
+- Uses Gemini LLM for answer generation
 
 ### Phase 4: Backend & Frontend
 - FastAPI backend with single endpoint
@@ -128,7 +128,7 @@ pip install -r requirements-dev.txt
 3. Create `.env` file:
 ```bash
 cp .env.example .env
-# Edit .env and add your GROQ_API_KEY
+# Edit .env and add your GEMINI_API_KEY
 ```
 
 4. Run initial scraping (local only; not needed on Vercel):
@@ -204,8 +204,8 @@ The application can be hosted entirely on Vercel (static frontend + Python backe
 }
 ```
 
-4. **Environment variables** – add the same variables you use locally (e.g. `GROQ_API_KEY`)
-   via the Vercel dashboard or CLI (`vercel env add GROQ_API_KEY production`).
+4. **Environment variables** – add the same variables you use locally (e.g. `GEMINI_API_KEY`)
+   via the Vercel dashboard or CLI (`vercel env add GEMINI_API_KEY production`).
 
 5. **Deploy** – install the Vercel CLI (`npm i -g vercel`) and run `vercel` in the repo root,
    or connect the GitHub/GitLab repository via the Vercel dashboard.  After deployment you
