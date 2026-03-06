@@ -149,6 +149,11 @@ python -m phase4_backend.main
 
 ## API Endpoints
 
+### GET /
+Serves the chat UI (if static files are present).
+
+### POST /api/chat
+
 ### POST /api/chat
 ```json
 {
@@ -164,6 +169,49 @@ Response:
   "last_updated": "2024-03-01T10:30:00Z"
 }
 ```
+
+
+## Deploying to Vercel
+
+The application can be hosted entirely on Vercel (static frontend + Python backend).
+
+1. **Move static assets** – frontend files have been copied to a top-level `public/`
+   directory; Vercel will serve them automatically.  The existing FastAPI route at `/`
+   will still work for local development.
+
+2. **API server** – create a small wrapper in `api/index.py` that imports `app` from
+   `phase4_backend.main`.  Vercel's Python builder will detect the ASGI application.
+
+3. **Configuration** – the `vercel.json` file configures a build step for Python and
+   ensures `/api/*` routes go to the same serverless function:
+
+```json
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/index.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/api/(.*)", "dest": "/api/index.py" }
+  ]
+}
+```
+
+4. **Environment variables** – add the same variables you use locally (e.g. `GROQ_API_KEY`)
+   via the Vercel dashboard or CLI (`vercel env add GROQ_API_KEY production`).
+
+5. **Deploy** – install the Vercel CLI (`npm i -g vercel`) and run `vercel` in the repo root,
+   or connect the GitHub/GitLab repository via the Vercel dashboard.  After deployment you
+   will receive a domain such as `https://<your-project>.vercel.app`.
+
+6. **Testing** – once up, visit the root URL to see the chat UI.  All API calls should be
+   forwarded to `/api/chat` and handled by the FastAPI backend as before.
+
+> ⚠️ The backend currently loads data (FAISS index, embeddings) at startup. On
+> Vercel each serverless invocation may spin up a fresh container, so response
+> times can be higher on cold starts.  Consider caching or trimming the dataset
+> if latency becomes a problem.
 
 ## Disclaimer
 

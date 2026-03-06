@@ -94,10 +94,21 @@ async def startup_event():
 
 @app.get("/", response_class=FileResponse)
 async def serve_frontend():
-    """Serve the frontend HTML"""
-    frontend_path = Path(__file__).parent / "frontend" / "index.html"
-    if frontend_path.exists():
-        return FileResponse(frontend_path)
+    """Serve the frontend HTML.
+
+    When running on Vercel the static site lives in `/public`, so we try
+    both locations and fall back gracefully to a JSON message if nothing
+    is available.
+    """
+    candidates = [
+        Path(__file__).parent / "frontend" / "index.html",
+        Path(__file__).parent.parent / "public" / "index.html",
+    ]
+
+    for frontend_path in candidates:
+        if frontend_path.exists():
+            return FileResponse(frontend_path)
+
     return JSONResponse(
         content={"message": "Frontend not found. Use /api/chat endpoint directly."},
         status_code=200
