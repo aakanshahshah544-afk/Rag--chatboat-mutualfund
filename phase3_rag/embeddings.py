@@ -8,7 +8,6 @@ Phase 3: Embedding Generation and Management
 
 import json
 import os
-import pickle
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -37,21 +36,47 @@ class EmbeddingManager:
     
     def _try_load_existing(self):
         """Try to load existing embeddings"""
-        index_path = self.EMBEDDINGS_DIR / "faiss_index.pkl"
+        index_path_faiss = self.EMBEDDINGS_DIR / "faiss_index.faiss"
+        index_path_pkl = self.EMBEDDINGS_DIR / "faiss_index.pkl"
         chunks_path = self.EMBEDDINGS_DIR / "chunks_metadata.json"
         
-        if index_path.exists() and chunks_path.exists():
+        if not chunks_path.exists():
+            return
+        
+        with open(chunks_path, 'r', encoding='utf-8') as f:
+            self.chunks = json.load(f)
+        
+        self.chunk_lookup = {c["id"]: c for c in self.chunks}
+        
+        # Try FAISS format first
+        if index_path_faiss.exists():
             try:
-                with open(index_path, 'rb') as f:
-                    self.index = pickle.load(f)
-                
-                with open(chunks_path, 'r', encoding='utf-8') as f:
-                    self.chunks = json.load(f)
-                
-                self.chunk_lookup = {c["id"]: c for c in self.chunks}
-                print(f"[OK] Loaded existing embeddings: {len(self.chunks)} chunks")
+                import faiss
+                self.index = faiss.read_index(str(index_path_faiss))
+                print(f"[OK] Loaded existing embeddings from .faiss: {len(self.chunks)} chunks")
+                return
             except Exception as e:
-                print(f"Could not load existing embeddings: {e}")
+                print(f"Could not load .faiss index: {e}")
+        
+        # Fallback to pickle format
+        if index_path_pkl.exists():
+            try:
+                import pickle
+                with open(index_path_pkl, 'rb') as f:
+                    self.index = pickle.load(f)
+                print(f"[OK] Loaded existing embeddings from .pkl: {len(self.chunks)} chunks")
+                # Optionally convert to faiss format
+                try:
+                    import faiss
+                    faiss.write_index(self.index, str(index_path_faiss))
+                    print("[OK] Converted index to .faiss format")
+                except Exception as e:
+                    print(f"Could not convert to .faiss: {e}")
+            except Exception as e:
+                print(f"Could not load .pkl index: {e}")
+        
+        if self.index is None:
+            print("No valid index found. Will need to rebuild.")
     
     def _load_model(self):
         """Load sentence transformer model"""
@@ -106,9 +131,10 @@ class EmbeddingManager:
     
     def save_index(self):
         """Save FAISS index and metadata to disk"""
-        index_path = self.EMBEDDINGS_DIR / "faiss_index.pkl"
-        with open(index_path, 'wb') as f:
-            pickle.dump(self.index, f)
+        import faiss
+        
+        index_path = self.EMBEDDINGS_DIR / "faiss_index.faiss"
+        faiss.write_index(self.index, str(index_path))
         
         chunks_path = self.EMBEDDINGS_DIR / "chunks_metadata.json"
         with open(chunks_path, 'w', encoding='utf-8') as f:
@@ -130,10 +156,27 @@ class EmbeddingManager:
             normalize_embeddings=True
         )
         
-        scores, indices = self.index.search(
-            query_embedding.astype('float32'),
-            top_k
-        )
+        try:
+            scores, indices = self.index.search(
+                query_embedding.astype('float32'),
+                top_k
+            )
+        except TypeError as e:
+            if "missing" in str(e) and "positional arguments" in str(e):
+                # Fallback for older FAISS versions that require pre-allocated arrays
+                print(f"FAISS search error: {e}. Trying older API.")
+                import numpy as np
+                scores = np.zeros((query_embedding.shape[0], top_k), dtype='float32')
+                indices = np.zeros((query_embedding.shape[0], top_k), dtype='int64')
+                self.index.search(
+                    query_embedding.astype('float32'),
+                    top_k,
+                    scores,
+                    indices
+                )
+                scores, indices = scores, indices
+            else:
+                raise
         
         results = []
         for i, (score, idx) in enumerate(zip(scores[0], indices[0])):
