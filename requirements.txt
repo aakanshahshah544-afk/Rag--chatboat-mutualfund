@@ -1,0 +1,41 @@
+# Groww RAG Chatbot Dependencies
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.18.1
+webdriver-manager==4.0.1
+playwright==1.42.0
+
+# Data Processing
+pandas==2.2.1
+numpy==1.26.4
+
+# Embeddings & Vector DB
+sentence-transformers==2.5.1
+faiss-cpu==1.8.0
+chromadb==0.4.24
+
+# LLM
+groq==0.5.0
+langchain==0.1.12
+langchain-groq==0.0.1
+langchain-community==0.0.29
+
+# Backend
+fastapi==0.110.0
+uvicorn==0.28.0
+python-dotenv==1.0.1
+pydantic==2.6.3
+
+# Scheduler
+schedule==1.2.1
+apscheduler==3.10.4
+
+# Testing
+pytest==8.1.1
+httpx==0.27.0
+
+# Utilities
+tqdm==4.66.2
+python-dateutil==2.9.0

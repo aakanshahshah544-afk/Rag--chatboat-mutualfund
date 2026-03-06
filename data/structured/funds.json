@@ -1,0 +1,2281 @@
+{
+  "funds": [
+    {
+      "id": "sbi-bluechip-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "SBI Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/sbi-bluechip-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.188582Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: SBI Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "8824a5894eac",
+          "fund_id": "sbi-bluechip-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by SBI Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/sbi-bluechip-fund-direct-growth"
+        },
+        {
+          "id": "ef35e837260c",
+          "fund_id": "sbi-bluechip-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/sbi-bluechip-fund-direct-growth"
+        },
+        {
+          "id": "430df8bcd180",
+          "fund_id": "sbi-bluechip-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/sbi-bluechip-fund-direct-growth"
+        },
+        {
+          "id": "003dc5cb32ec",
+          "fund_id": "sbi-bluechip-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/sbi-bluechip-fund-direct-growth"
+        },
+        {
+          "id": "30656909740c",
+          "fund_id": "sbi-bluechip-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: SBI Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/sbi-bluechip-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "sbi-magnum-midcap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "SBI Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/sbi-magnum-midcap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.188582Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: SBI Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "c789f917abe5",
+          "fund_id": "sbi-magnum-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by SBI Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/sbi-magnum-midcap-fund-direct-growth"
+        },
+        {
+          "id": "4559859cba33",
+          "fund_id": "sbi-magnum-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/sbi-magnum-midcap-fund-direct-growth"
+        },
+        {
+          "id": "5046a0d3bfda",
+          "fund_id": "sbi-magnum-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/sbi-magnum-midcap-fund-direct-growth"
+        },
+        {
+          "id": "6fc006313a94",
+          "fund_id": "sbi-magnum-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/sbi-magnum-midcap-fund-direct-growth"
+        },
+        {
+          "id": "43bc6e9b5dfc",
+          "fund_id": "sbi-magnum-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: SBI Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/sbi-magnum-midcap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "HDFC Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.188582Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: HDFC Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "78f8f368b7da",
+          "fund_id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by HDFC Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth"
+        },
+        {
+          "id": "20b76ed34046",
+          "fund_id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth"
+        },
+        {
+          "id": "51460662c977",
+          "fund_id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth"
+        },
+        {
+          "id": "db332d36fe02",
+          "fund_id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth"
+        },
+        {
+          "id": "285843da2a89",
+          "fund_id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: HDFC Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "hdfc-small-cap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "HDFC Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: HDFC Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "29a1db4ec8f0",
+          "fund_id": "hdfc-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by HDFC Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "aa52c75e03d8",
+          "fund_id": "hdfc-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "6e29fa05aa46",
+          "fund_id": "hdfc-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "10b45f974ff7",
+          "fund_id": "hdfc-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "6b3f53997b87",
+          "fund_id": "hdfc-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: HDFC Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "hdfc-balanced-advantage-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "HDFC Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: HDFC Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "a53595c892b7",
+          "fund_id": "hdfc-balanced-advantage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by HDFC Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "id": "e6b2b5e74c63",
+          "fund_id": "hdfc-balanced-advantage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "id": "da4c65024e16",
+          "fund_id": "hdfc-balanced-advantage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "id": "e57d2b5637a9",
+          "fund_id": "hdfc-balanced-advantage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "id": "cf274a4d2a73",
+          "fund_id": "hdfc-balanced-advantage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: HDFC Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "axis-small-cap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Axis Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/axis-small-cap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Axis Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "ad029466f4c5",
+          "fund_id": "axis-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Axis Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/axis-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "d939d8963088",
+          "fund_id": "axis-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/axis-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "b06d6560533c",
+          "fund_id": "axis-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/axis-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "e800ed0a779f",
+          "fund_id": "axis-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/axis-small-cap-fund-direct-growth"
+        },
+        {
+          "id": "bec31224c1c1",
+          "fund_id": "axis-small-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Axis Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/axis-small-cap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "axis-midcap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Axis Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/axis-midcap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Axis Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "c0757d6aea04",
+          "fund_id": "axis-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Axis Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/axis-midcap-fund-direct-growth"
+        },
+        {
+          "id": "7ebdf6cf77c0",
+          "fund_id": "axis-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/axis-midcap-fund-direct-growth"
+        },
+        {
+          "id": "42b0fd6ebfd0",
+          "fund_id": "axis-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/axis-midcap-fund-direct-growth"
+        },
+        {
+          "id": "b81ff6ad4a97",
+          "fund_id": "axis-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/axis-midcap-fund-direct-growth"
+        },
+        {
+          "id": "9b549a3b4ccb",
+          "fund_id": "axis-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Axis Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/axis-midcap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "axis-flexi-cap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Axis Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/axis-flexi-cap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Axis Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "c28039960b58",
+          "fund_id": "axis-flexi-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Axis Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/axis-flexi-cap-fund-direct-growth"
+        },
+        {
+          "id": "07eac88b6624",
+          "fund_id": "axis-flexi-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/axis-flexi-cap-fund-direct-growth"
+        },
+        {
+          "id": "0033d83cfe1b",
+          "fund_id": "axis-flexi-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/axis-flexi-cap-fund-direct-growth"
+        },
+        {
+          "id": "a443a0d0cf74",
+          "fund_id": "axis-flexi-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/axis-flexi-cap-fund-direct-growth"
+        },
+        {
+          "id": "3c2a9b3159e4",
+          "fund_id": "axis-flexi-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Axis Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/axis-flexi-cap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "icici-prudential-value-discovery-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/icici-prudential-value-discovery-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: ICICI Prudential Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "5bcf3832ccbd",
+          "fund_id": "icici-prudential-value-discovery-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by ICICI Prudential Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-value-discovery-fund-direct-growth"
+        },
+        {
+          "id": "93458dd0b96f",
+          "fund_id": "icici-prudential-value-discovery-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-value-discovery-fund-direct-growth"
+        },
+        {
+          "id": "a62267ec669e",
+          "fund_id": "icici-prudential-value-discovery-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-value-discovery-fund-direct-growth"
+        },
+        {
+          "id": "bede3d495922",
+          "fund_id": "icici-prudential-value-discovery-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-value-discovery-fund-direct-growth"
+        },
+        {
+          "id": "44c3d802890a",
+          "fund_id": "icici-prudential-value-discovery-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: ICICI Prudential Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-value-discovery-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "icici-prudential-midcap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: ICICI Prudential Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "5635436d58e5",
+          "fund_id": "icici-prudential-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by ICICI Prudential Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth"
+        },
+        {
+          "id": "ccc5a0544599",
+          "fund_id": "icici-prudential-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth"
+        },
+        {
+          "id": "164ff9789c7a",
+          "fund_id": "icici-prudential-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth"
+        },
+        {
+          "id": "c0a851b92676",
+          "fund_id": "icici-prudential-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth"
+        },
+        {
+          "id": "b176a5d62870",
+          "fund_id": "icici-prudential-midcap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: ICICI Prudential Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "icici-prudential-technology-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "ICICI Prudential Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.189578Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: ICICI Prudential Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "bb2109104911",
+          "fund_id": "icici-prudential-technology-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by ICICI Prudential Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth"
+        },
+        {
+          "id": "c1e73d9e9fdf",
+          "fund_id": "icici-prudential-technology-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth"
+        },
+        {
+          "id": "7e8871ba625e",
+          "fund_id": "icici-prudential-technology-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth"
+        },
+        {
+          "id": "7083f89fa98a",
+          "fund_id": "icici-prudential-technology-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth"
+        },
+        {
+          "id": "7a83894fd674",
+          "fund_id": "icici-prudential-technology-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: ICICI Prudential Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-500-momentum-50-etf-fof-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-500-momentum-50-etf-fof-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "cb9663d9029e",
+          "fund_id": "groww-nifty-500-momentum-50-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-500-momentum-50-etf-fof-direct-growth"
+        },
+        {
+          "id": "c68c000a0c7b",
+          "fund_id": "groww-nifty-500-momentum-50-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-500-momentum-50-etf-fof-direct-growth"
+        },
+        {
+          "id": "da820a8a8508",
+          "fund_id": "groww-nifty-500-momentum-50-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-500-momentum-50-etf-fof-direct-growth"
+        },
+        {
+          "id": "e0c89844d9de",
+          "fund_id": "groww-nifty-500-momentum-50-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-500-momentum-50-etf-fof-direct-growth"
+        },
+        {
+          "id": "d7390aaceeed",
+          "fund_id": "groww-nifty-500-momentum-50-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-500-momentum-50-etf-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-aggressive-hybrid-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-aggressive-hybrid-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "491c191ad713",
+          "fund_id": "groww-aggressive-hybrid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-aggressive-hybrid-fund-direct-growth"
+        },
+        {
+          "id": "34321a6067aa",
+          "fund_id": "groww-aggressive-hybrid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-aggressive-hybrid-fund-direct-growth"
+        },
+        {
+          "id": "d86d865833f7",
+          "fund_id": "groww-aggressive-hybrid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-aggressive-hybrid-fund-direct-growth"
+        },
+        {
+          "id": "90904700ce25",
+          "fund_id": "groww-aggressive-hybrid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-aggressive-hybrid-fund-direct-growth"
+        },
+        {
+          "id": "f87c0eb85ae6",
+          "fund_id": "groww-aggressive-hybrid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-aggressive-hybrid-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-india-railways-psu-index-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "2d36631a66a7",
+          "fund_id": "groww-nifty-india-railways-psu-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth"
+        },
+        {
+          "id": "11fdd9625809",
+          "fund_id": "groww-nifty-india-railways-psu-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth"
+        },
+        {
+          "id": "d40ec98b3f5f",
+          "fund_id": "groww-nifty-india-railways-psu-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth"
+        },
+        {
+          "id": "e3bc4d20f362",
+          "fund_id": "groww-nifty-india-railways-psu-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth"
+        },
+        {
+          "id": "46b6334f711b",
+          "fund_id": "groww-nifty-india-railways-psu-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-arbitrage-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-arbitrage-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "4016bbd01f72",
+          "fund_id": "groww-arbitrage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-arbitrage-fund-direct-growth"
+        },
+        {
+          "id": "68f0e97313c1",
+          "fund_id": "groww-arbitrage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-arbitrage-fund-direct-growth"
+        },
+        {
+          "id": "06820d1ffa78",
+          "fund_id": "groww-arbitrage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-arbitrage-fund-direct-growth"
+        },
+        {
+          "id": "29c8859d0507",
+          "fund_id": "groww-arbitrage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-arbitrage-fund-direct-growth"
+        },
+        {
+          "id": "b527d6087d12",
+          "fund_id": "groww-arbitrage-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-arbitrage-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-multicap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-multicap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "85919dd98df4",
+          "fund_id": "groww-multicap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-multicap-fund-direct-growth"
+        },
+        {
+          "id": "3945008a7e61",
+          "fund_id": "groww-multicap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-multicap-fund-direct-growth"
+        },
+        {
+          "id": "c353bc5f41cf",
+          "fund_id": "groww-multicap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-multicap-fund-direct-growth"
+        },
+        {
+          "id": "69950431bf82",
+          "fund_id": "groww-multicap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-multicap-fund-direct-growth"
+        },
+        {
+          "id": "6f93e04d1c1d",
+          "fund_id": "groww-multicap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-multicap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-overnight-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-overnight-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "c5a46f7a7b33",
+          "fund_id": "groww-overnight-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-overnight-fund-direct-growth"
+        },
+        {
+          "id": "b248956fcbac",
+          "fund_id": "groww-overnight-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-overnight-fund-direct-growth"
+        },
+        {
+          "id": "8305cd0fdbfb",
+          "fund_id": "groww-overnight-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-overnight-fund-direct-growth"
+        },
+        {
+          "id": "70b98bc54703",
+          "fund_id": "groww-overnight-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-overnight-fund-direct-growth"
+        },
+        {
+          "id": "8c81a9e5f886",
+          "fund_id": "groww-overnight-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-overnight-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-india-defence-etf-fof-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "5cab54ad36c0",
+          "fund_id": "groww-nifty-india-defence-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth"
+        },
+        {
+          "id": "70760301b063",
+          "fund_id": "groww-nifty-india-defence-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth"
+        },
+        {
+          "id": "2efcbf502883",
+          "fund_id": "groww-nifty-india-defence-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth"
+        },
+        {
+          "id": "a87b1653cf4d",
+          "fund_id": "groww-nifty-india-defence-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth"
+        },
+        {
+          "id": "c0ffd8b33a0a",
+          "fund_id": "groww-nifty-india-defence-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-large-cap-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "238d88181aeb",
+          "fund_id": "groww-large-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth"
+        },
+        {
+          "id": "ee6af736d44d",
+          "fund_id": "groww-large-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth"
+        },
+        {
+          "id": "a2bc21994a48",
+          "fund_id": "groww-large-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth"
+        },
+        {
+          "id": "a49757bda36c",
+          "fund_id": "groww-large-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth"
+        },
+        {
+          "id": "470eb9fb4d27",
+          "fund_id": "groww-large-cap-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-large-cap-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-liquid-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-liquid-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.190583Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "9c410fea8bcc",
+          "fund_id": "groww-liquid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-liquid-fund-direct-growth"
+        },
+        {
+          "id": "4fa0ef724ee8",
+          "fund_id": "groww-liquid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-liquid-fund-direct-growth"
+        },
+        {
+          "id": "597feab036ee",
+          "fund_id": "groww-liquid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-liquid-fund-direct-growth"
+        },
+        {
+          "id": "3929b1902ea2",
+          "fund_id": "groww-liquid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-liquid-fund-direct-growth"
+        },
+        {
+          "id": "117bde149420",
+          "fund_id": "groww-liquid-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-liquid-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-smallcap-250-index-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "75649e0af87f",
+          "fund_id": "groww-nifty-smallcap-250-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth"
+        },
+        {
+          "id": "366f557f8d4b",
+          "fund_id": "groww-nifty-smallcap-250-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth"
+        },
+        {
+          "id": "96a015b2d29f",
+          "fund_id": "groww-nifty-smallcap-250-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth"
+        },
+        {
+          "id": "62cb5450b920",
+          "fund_id": "groww-nifty-smallcap-250-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth"
+        },
+        {
+          "id": "52a1a3503571",
+          "fund_id": "groww-nifty-smallcap-250-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-total-market-index-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "b8fcbb66876f",
+          "fund_id": "groww-nifty-total-market-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth"
+        },
+        {
+          "id": "dbdb671ca11d",
+          "fund_id": "groww-nifty-total-market-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth"
+        },
+        {
+          "id": "de03841f75f1",
+          "fund_id": "groww-nifty-total-market-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth"
+        },
+        {
+          "id": "891c0223d9e9",
+          "fund_id": "groww-nifty-total-market-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth"
+        },
+        {
+          "id": "2f61fb6ebc1b",
+          "fund_id": "groww-nifty-total-market-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-total-market-index-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-banking-financial-services-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-banking-financial-services-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "bc578326b335",
+          "fund_id": "groww-banking-financial-services-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-banking-financial-services-fund-direct-growth"
+        },
+        {
+          "id": "65a9bc6f0d9b",
+          "fund_id": "groww-banking-financial-services-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-banking-financial-services-fund-direct-growth"
+        },
+        {
+          "id": "17032e0974db",
+          "fund_id": "groww-banking-financial-services-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-banking-financial-services-fund-direct-growth"
+        },
+        {
+          "id": "c4eceb54a4a6",
+          "fund_id": "groww-banking-financial-services-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-banking-financial-services-fund-direct-growth"
+        },
+        {
+          "id": "c0e6288e382e",
+          "fund_id": "groww-banking-financial-services-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-banking-financial-services-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-dynamic-bond-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-dynamic-bond-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "d3dfceba42fa",
+          "fund_id": "groww-dynamic-bond-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-dynamic-bond-fund-direct-growth"
+        },
+        {
+          "id": "050ed65e1ed7",
+          "fund_id": "groww-dynamic-bond-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-dynamic-bond-fund-direct-growth"
+        },
+        {
+          "id": "313e0ab0b8a4",
+          "fund_id": "groww-dynamic-bond-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-dynamic-bond-fund-direct-growth"
+        },
+        {
+          "id": "2d61b496ced3",
+          "fund_id": "groww-dynamic-bond-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-dynamic-bond-fund-direct-growth"
+        },
+        {
+          "id": "e328922a856e",
+          "fund_id": "groww-dynamic-bond-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-dynamic-bond-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-200-etf-fof-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-200-etf-fof-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "a369862d87a1",
+          "fund_id": "groww-nifty-200-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-200-etf-fof-direct-growth"
+        },
+        {
+          "id": "5cac35da3464",
+          "fund_id": "groww-nifty-200-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-200-etf-fof-direct-growth"
+        },
+        {
+          "id": "29a570d4fbac",
+          "fund_id": "groww-nifty-200-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-200-etf-fof-direct-growth"
+        },
+        {
+          "id": "d2151f0318ac",
+          "fund_id": "groww-nifty-200-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-200-etf-fof-direct-growth"
+        },
+        {
+          "id": "ce074aa0ab17",
+          "fund_id": "groww-nifty-200-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-200-etf-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "e766446fe8e3",
+          "fund_id": "groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth"
+        },
+        {
+          "id": "d7563042ca57",
+          "fund_id": "groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth"
+        },
+        {
+          "id": "fe6a4d3f18da",
+          "fund_id": "groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth"
+        },
+        {
+          "id": "5066584d6fae",
+          "fund_id": "groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth"
+        },
+        {
+          "id": "14bb79064c09",
+          "fund_id": "groww-nifty-ev-new-age-automotive-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-money-market-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-money-market-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "27fc604ae587",
+          "fund_id": "groww-money-market-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-money-market-fund-direct-growth"
+        },
+        {
+          "id": "7e5e1bea4b5e",
+          "fund_id": "groww-money-market-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-money-market-fund-direct-growth"
+        },
+        {
+          "id": "366a60bb342f",
+          "fund_id": "groww-money-market-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-money-market-fund-direct-growth"
+        },
+        {
+          "id": "fd0124ae98b5",
+          "fund_id": "groww-money-market-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-money-market-fund-direct-growth"
+        },
+        {
+          "id": "757a0cfbc2df",
+          "fund_id": "groww-money-market-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-money-market-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-elss-tax-saver-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "3 Years (ELSS - Tax Saver Fund)",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: 3 Years (ELSS - Tax Saver Fund)\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "0e4659fba249",
+          "fund_id": "groww-elss-tax-saver-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth"
+        },
+        {
+          "id": "67a6aa3b3020",
+          "fund_id": "groww-elss-tax-saver-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth"
+        },
+        {
+          "id": "534bfe390933",
+          "fund_id": "groww-elss-tax-saver-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is 3 Years (ELSS - Tax Saver Fund). ELSS (Equity Linked Savings Scheme) funds have a mandatory 3-year lock-in period. They offer tax benefits under Section 80C up to ₹1,50,000 per year.",
+          "source_url": "https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth"
+        },
+        {
+          "id": "20cba1351515",
+          "fund_id": "groww-elss-tax-saver-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth"
+        },
+        {
+          "id": "349163f8c6c2",
+          "fund_id": "groww-elss-tax-saver-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: 3 Years (ELSS - Tax Saver Fund)\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-elss-tax-saver-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "330666ef6ef1",
+          "fund_id": "groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth"
+        },
+        {
+          "id": "caf2b98578f7",
+          "fund_id": "groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth"
+        },
+        {
+          "id": "95f351e23bf8",
+          "fund_id": "groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth"
+        },
+        {
+          "id": "5184778b5a40",
+          "fund_id": "groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth"
+        },
+        {
+          "id": "6a8a415f4b44",
+          "fund_id": "groww-nifty-non-cyclical-consumer-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-gold-etf-fof-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.191584Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "112fe58ee067",
+          "fund_id": "groww-gold-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth"
+        },
+        {
+          "id": "705193f89c39",
+          "fund_id": "groww-gold-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth"
+        },
+        {
+          "id": "474d5354a3ac",
+          "fund_id": "groww-gold-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth"
+        },
+        {
+          "id": "5bbd8fc10539",
+          "fund_id": "groww-gold-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth"
+        },
+        {
+          "id": "f1de9c8a6c3d",
+          "fund_id": "groww-gold-etf-fof-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-gold-etf-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-short-duration-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-short-duration-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.192582Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "91c1745de45e",
+          "fund_id": "groww-short-duration-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-short-duration-fund-direct-growth"
+        },
+        {
+          "id": "ab217a5a9c34",
+          "fund_id": "groww-short-duration-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-short-duration-fund-direct-growth"
+        },
+        {
+          "id": "a8b710c6a564",
+          "fund_id": "groww-short-duration-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-short-duration-fund-direct-growth"
+        },
+        {
+          "id": "5c483e2f253e",
+          "fund_id": "groww-short-duration-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-short-duration-fund-direct-growth"
+        },
+        {
+          "id": "1962e5017c70",
+          "fund_id": "groww-short-duration-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-short-duration-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-value-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.192582Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "ebc9154168a4",
+          "fund_id": "groww-value-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth"
+        },
+        {
+          "id": "80a477865ec2",
+          "fund_id": "groww-value-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth"
+        },
+        {
+          "id": "66205e518209",
+          "fund_id": "groww-value-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth"
+        },
+        {
+          "id": "939214a367d8",
+          "fund_id": "groww-value-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth"
+        },
+        {
+          "id": "f944b2b41d17",
+          "fund_id": "groww-value-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-value-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "id": "groww-nifty-next-50-index-fund-direct-growth",
+      "fund_name": null,
+      "amc_name": "Groww Mutual Fund",
+      "category": null,
+      "source_url": "https://groww.in/mutual-funds/groww-nifty-next-50-index-fund-direct-growth",
+      "last_updated": "2026-03-06T10:06:50.192582Z",
+      "expense_ratio": null,
+      "expense_ratio_numeric": null,
+      "exit_load": "Not specified",
+      "lock_in_period": "Nil",
+      "riskometer": null,
+      "benchmark": null,
+      "minimum_sip": "₹500",
+      "minimum_sip_numeric": 500.0,
+      "aum": null,
+      "aum_numeric": null,
+      "fund_manager": null,
+      "returns": {},
+      "nav": null,
+      "nav_date": null,
+      "text_content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+      "chunks": [
+        {
+          "id": "0d606a7bbf07",
+          "fund_id": "groww-nifty-next-50-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "basic_info",
+          "content": "managed by Groww Mutual Fund",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-next-50-index-fund-direct-growth"
+        },
+        {
+          "id": "832e256f6f51",
+          "fund_id": "groww-nifty-next-50-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "exit_load",
+          "content": "The exit load for None is Not specified. Exit load is the fee charged when you redeem your units before a specified period.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-next-50-index-fund-direct-growth"
+        },
+        {
+          "id": "38f299d98f58",
+          "fund_id": "groww-nifty-next-50-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "lock_in_period",
+          "content": "The lock-in period for None is Nil. This means you can redeem your investment anytime without restrictions.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-next-50-index-fund-direct-growth"
+        },
+        {
+          "id": "b0bf72c480e3",
+          "fund_id": "groww-nifty-next-50-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "minimum_sip",
+          "content": "The minimum SIP amount for None is ₹500. SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly.",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-next-50-index-fund-direct-growth"
+        },
+        {
+          "id": "bc6e399be79c",
+          "fund_id": "groww-nifty-next-50-index-fund-direct-growth",
+          "fund_name": null,
+          "chunk_type": "full_info",
+          "content": "AMC: Groww Mutual Fund\nExit Load: Not specified\nLock-in Period: Nil\nMinimum SIP: ₹500",
+          "source_url": "https://groww.in/mutual-funds/groww-nifty-next-50-index-fund-direct-growth"
+        }
+      ]
+    }
+  ],
+  "help_pages": [
+    {
+      "id": "help_mutual_funds_general",
+      "category": "mutual_funds_general",
+      "description": "General mutual fund help",
+      "source_url": "https://groww.in/help/mutual-funds",
+      "last_updated": "2026-03-06T10:06:50.192582Z",
+      "title": "Help & Support",
+      "content": [],
+      "faqs": [],
+      "steps": [],
+      "elss_info": {
+        "lock_in_period": "3 Years",
+        "tax_benefit": "Deduction under Section 80C up to ₹1,50,000",
+        "description": "ELSS (Equity Linked Savings Scheme) funds have a mandatory lock-in period of 3 years. They offer tax benefits under Section 80C of the Income Tax Act."
+      },
+      "exit_load_info": {
+        "description": "Exit load is a fee charged when you redeem (sell) your mutual fund units before a specified period.",
+        "common_rules": [
+          "Most equity funds charge 1% exit load if redeemed within 1 year",
+          "Liquid funds typically have no exit load after 7 days",
+          "ELSS funds have no exit load after the 3-year lock-in period",
+          "Exit load varies by fund - always check the specific fund details"
+        ]
+      },
+      "text_content": "Topic: Help & Support\n\nELSS Information:\nLock-in Period: 3 Years\nTax Benefit: Deduction under Section 80C up to ₹1,50,000\nELSS (Equity Linked Savings Scheme) funds have a mandatory lock-in period of 3 years. They offer tax benefits under Section 80C of the Income Tax Act.\n\nExit Load Information:\nExit load is a fee charged when you redeem (sell) your mutual fund units before a specified period.\nMost equity funds charge 1% exit load if redeemed within 1 year\nLiquid funds typically have no exit load after 7 days\nELSS funds have no exit load after the 3-year lock-in period\nExit load varies by fund - always check the specific fund details",
+      "chunks": [
+        {
+          "id": "73ff05eb1b79",
+          "page_id": "help_mutual_funds_general",
+          "category": "mutual_funds_general",
+          "chunk_type": "help_content",
+          "content": "Topic: Help & Support  ELSS Information: Lock-in Period: 3 Years Tax Benefit: Deduction under Section 80C up to ₹1,50,000 ELSS (Equity Linked Savings Scheme) funds have a mandatory lock-in period of 3 years. They offer tax benefits under Section 80C of the Income Tax Act.  Exit Load Information: Exit load is a fee charged when you redeem (sell) your mutual fund units before a specified period.",
+          "source_url": "https://groww.in/help/mutual-funds"
+        },
+        {
+          "id": "adb4a5052d67",
+          "page_id": "help_mutual_funds_general",
+          "category": "mutual_funds_general",
+          "chunk_type": "help_content",
+          "content": "Most equity funds charge 1% exit load if redeemed within 1 year Liquid funds typically have no exit load after 7 days ELSS funds have no exit load after the 3-year lock-in period Exit load varies by fund - always check the specific fund details.",
+          "source_url": "https://groww.in/help/mutual-funds"
+        },
+        {
+          "id": "a8752b1da65f",
+          "page_id": "help_mutual_funds_general",
+          "category": "elss",
+          "chunk_type": "elss_info",
+          "content": "ELSS (Equity Linked Savings Scheme) Information:\nLock-in Period: 3 Years\nTax Benefit: Deduction under Section 80C up to ₹1,50,000\nELSS (Equity Linked Savings Scheme) funds have a mandatory lock-in period of 3 years. They offer tax benefits under Section 80C of the Income Tax Act.",
+          "source_url": "https://groww.in/help/mutual-funds"
+        },
+        {
+          "id": "458d323faab9",
+          "page_id": "help_mutual_funds_general",
+          "category": "exit_load",
+          "chunk_type": "exit_load_info",
+          "content": "Exit Load Information:\nExit load is a fee charged when you redeem (sell) your mutual fund units before a specified period.\n\nCommon Exit Load Rules:\n- Most equity funds charge 1% exit load if redeemed within 1 year\n- Liquid funds typically have no exit load after 7 days\n- ELSS funds have no exit load after the 3-year lock-in period\n- Exit load varies by fund - always check the specific fund details",
+          "source_url": "https://groww.in/help/mutual-funds"
+        }
+      ]
+    },
+    {
+      "id": "help_redemption",
+      "category": "redemption",
+      "description": "How to redeem mutual funds",
+      "source_url": "https://groww.in/help/mutual-funds/redeem",
+      "last_updated": "2026-03-06T10:06:50.192582Z",
+      "title": "Help & Support",
+      "content": [],
+      "faqs": [],
+      "steps": [],
+      "text_content": "Topic: Help & Support",
+      "chunks": [
+        {
+          "id": "d8682ba10754",
+          "page_id": "help_redemption",
+          "category": "redemption",
+          "chunk_type": "help_content",
+          "content": "Topic: Help & Support",
+          "source_url": "https://groww.in/help/mutual-funds/redeem"
+        }
+      ]
+    },
+    {
+      "id": "help_capital_gains",
+      "category": "capital_gains",
+      "description": "Capital gains and tax information",
+      "source_url": "https://groww.in/help/tax/capital-gains",
+      "last_updated": "2026-03-06T10:06:50.192582Z",
+      "title": "Help & Support",
+      "content": [],
+      "faqs": [],
+      "steps": [],
+      "capital_gains_info": {
+        "download_steps": [
+          "Go to Groww app or website",
+          "Navigate to 'Reports' section",
+          "Select 'Capital Gains Statement'",
+          "Choose the financial year",
+          "Click 'Download' to get the statement"
+        ],
+        "stcg_info": null,
+        "ltcg_info": null,
+        "tax_rates": {}
+      },
+      "text_content": "Topic: Help & Support\n\nCapital Gains Information:\nHow to download capital gains statement:\nGo to Groww app or website\nNavigate to 'Reports' section\nSelect 'Capital Gains Statement'\nChoose the financial year\nClick 'Download' to get the statement",
+      "chunks": [
+        {
+          "id": "8de8746bf844",
+          "page_id": "help_capital_gains",
+          "category": "capital_gains",
+          "chunk_type": "help_content",
+          "content": "Topic: Help & Support\n\nCapital Gains Information:\nHow to download capital gains statement:\nGo to Groww app or website\nNavigate to 'Reports' section\nSelect 'Capital Gains Statement'\nChoose the financial year\nClick 'Download' to get the statement",
+          "source_url": "https://groww.in/help/tax/capital-gains"
+        },
+        {
+          "id": "2577d569e587",
+          "page_id": "help_capital_gains",
+          "category": "capital_gains",
+          "chunk_type": "capital_gains_download",
+          "content": "How to download capital gains statement from Groww:\nGo to Groww app or website\nNavigate to 'Reports' section\nSelect 'Capital Gains Statement'\nChoose the financial year\nClick 'Download' to get the statement",
+          "source_url": "https://groww.in/help/tax/capital-gains"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_funds": 33,
+    "total_help_pages": 3,
+    "processed_at": "2026-03-06T10:06:50.192582Z",
+    "last_updated": "2026-03-06T10:06:50.192582Z"
+  }
+}

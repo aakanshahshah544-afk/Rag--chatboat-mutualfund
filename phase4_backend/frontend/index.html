@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Groww Mutual Fund Assistant</title>
+    <link rel="stylesheet" href="/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="logo">
+                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="logo-icon">
+                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <h1>Groww Mutual Fund Assistant</h1>
+            </div>
+            <div class="status" id="status">
+                <span class="status-dot"></span>
+                <span class="status-text">Ready</span>
+            </div>
+        </header>
+
+        <main class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="message assistant">
+                    <div class="message-content">
+                        <p><strong>Welcome!</strong> Ask me factual questions about mutual funds available on Groww.</p>
+                        <p class="examples-title">Try these examples:</p>
+                        <div class="example-questions">
+                            <button class="example-btn" data-query="What is the expense ratio of SBI Bluechip Fund?">
+                                💰 Expense ratio of SBI Bluechip Fund
+                            </button>
+                            <button class="example-btn" data-query="What is the ELSS lock-in period?">
+                                🔒 ELSS lock-in period
+                            </button>
+                            <button class="example-btn" data-query="How to download capital gains statement?">
+                                📄 Download capital gains statement
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-container">
+                <form id="chatForm" class="chat-form">
+                    <input 
+                        type="text" 
+                        id="queryInput" 
+                        placeholder="Ask about mutual funds..." 
+                        autocomplete="off"
+                        maxlength="500"
+                    >
+                    <button type="submit" id="sendBtn">
+                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                </form>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p class="disclaimer">
+                ⚠️ <strong>Facts-only. No investment advice.</strong> This chatbot provides factual information from Groww and does not provide any investment recommendations.
+            </p>
+            <p class="last-updated" id="lastUpdated">Data last updated: Loading...</p>
+        </footer>
+    </div>
+
+    <script src="/app.js"></script>
+</body>
+</html>
