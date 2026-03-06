@@ -114,38 +114,44 @@ M1/
 
 ## Setup
 
-1. Install dependencies:
+1. **For local development** (includes scraping, processing, testing, scheduler):
 ```bash
 pip install -r requirements.txt
+pip install -r requirements-dev.txt
 ```
 
-2. Create `.env` file:
+2. **For Vercel deployment** (lean backend only):
+   - `vercel` will automatically install packages from `requirements.txt`
+   - This file contains only runtime dependencies (no scraping, testing, or scheduler tools)
+   - Total size is optimized to fit within serverless constraints
+
+3. Create `.env` file:
 ```bash
 cp .env.example .env
 # Edit .env and add your GROQ_API_KEY
 ```
 
-3. Run initial scraping:
+4. Run initial scraping (local only; not needed on Vercel):
 ```bash
 python -m phase1_scraper.scraper
 ```
 
-4. Process data:
+5. Process data (local only):
 ```bash
 python -m phase2_processing.processor
 ```
 
-5. Build embeddings:
+6. Build embeddings (local only):
 ```bash
 python -m phase3_rag.embeddings
 ```
 
-6. Start the server:
+7. Start the server locally:
 ```bash
 python -m phase4_backend.main
 ```
+   Open browser at http://localhost:8000
 
-7. Open browser at http://localhost:8000
 
 ## API Endpoints
 
